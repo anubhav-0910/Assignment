@@ -1,16 +1,12 @@
 # Havahavai Assignment
 
-A new Flutter project.
+## Screenshots
+<div style="display: flex; flex-direction: row;">
+<img src = "https://github.com/anubhav-0910/Assignment/blob/master/assets/Screenshots/Simulator%20Screenshot%20-%20iPhone%2015%20-%202024-03-10%20at%2000.35.02.png" width="250" height="600">
+&nbsp;&nbsp;&nbsp;
+<img src = "https://github.com/anubhav-0910/Assignment/blob/master/assets/Screenshots/Simulator%20Screenshot%20-%20iPhone%2015%20-%202024-03-10%20at%2000.35.14.png" width="250" height="600">
+&nbsp;&nbsp;&nbsp;
+<img src = "https://github.com/anubhav-0910/Assignment/blob/master/assets/Screenshots/Simulator%20Screenshot%20-%20iPhone%2015%20-%202024-03-10%20at%2000.35.21.png" width="250" height="600">
+&nbsp;&nbsp;&nbsp;
+</div>
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
