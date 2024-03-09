@@ -1,4 +1,4 @@
-# havahavai_assignment
+# Havahavai Assignment
 
 A new Flutter project.
 
