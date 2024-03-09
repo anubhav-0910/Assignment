@@ -8,22 +8,24 @@ class BackgroundCard extends StatelessWidget {
 
   @override
   Widget build(BuildContext context) {
-    return Stack(
-      children: [
-        Padding(
-          padding: const EdgeInsets.symmetric(vertical: 15, horizontal: 5),
-          child: ClipRRect(
-            borderRadius: BorderRadius.circular(12),
-            child: Image.asset(
-              './assets/images/dubai_bg1.png',
-              width: 345,
-              height: 285,
-              fit: BoxFit.cover,
+    return Center(
+      child: Stack(
+        children: [
+          Padding(
+            padding: const EdgeInsets.symmetric(vertical: 15, horizontal: 5),
+            child: ClipRRect(
+              borderRadius: BorderRadius.circular(12),
+              child: Image.asset(
+                './assets/images/dubai_bg1.png',
+                width: 345,
+                height: 285,
+                fit: BoxFit.cover,
+              ),
             ),
           ),
-        ),
-        const ImageCard(),
-      ],
+          const ImageCard(),
+        ],
+      ),
     );
   }
 }
